@@ -15,3 +15,5 @@
 - Editor
   - https://code.visualstudio.com/
     - Extension: C#
+- Debug
+  - F1 (Assets)
