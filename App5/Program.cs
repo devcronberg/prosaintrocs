@@ -2,7 +2,8 @@
 // try + tab
 try
 {
-    string txt = System.IO.File.ReadAllText("C:\\prosaintrocs\\test.txt");
+    //string txt = System.IO.File.ReadAllText("C:\\prosaintrocs\\test.txt");
+    string txt = System.IO.File.ReadAllText(@"C:\prosaintrocs\test.txt");
     System.Console.WriteLine(txt);
 }
 catch (System.Exception ex)
