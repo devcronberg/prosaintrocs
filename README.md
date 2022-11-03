@@ -6,5 +6,12 @@
 
 # Links
 
-- https://dotnet.microsoft.com/en-us/download
-  - SDK
+- SDK
+  - https://dotnet.microsoft.com/en-us/download
+- Skab ny applikation
+  - dotnet new console
+- Kompiler og afvikle
+  - dotnet run
+- Editor
+  - https://code.visualstudio.com/
+    - Extension: C#
