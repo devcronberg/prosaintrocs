@@ -15,5 +15,6 @@
 - Editor
   - https://code.visualstudio.com/
     - Extension: C#
+    - Se også https://code.visualstudio.com/docs/languages/csharp
 - Debug
   - F1 (Assets)
